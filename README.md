@@ -1,5 +1,5 @@
 # naziv projekta
 - projetnik zadatak SSSS Tehmeha
-- team members: Ime Prezime
+- team members: Upisati ime i prezime
 - programming language: C++
-- description: Opis
+- description: Upisati opis
